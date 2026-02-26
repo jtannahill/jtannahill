@@ -8,7 +8,6 @@ President at [Plocamium Holdings](https://www.jamestannahill.com), a hybrid inve
 
 - **[1ness Strategies](https://1nessagency.com)** — Compliance-focused digital marketing for healthcare, defense, and regulated sectors
 - **HLTHvrs** — HIPAA-conscious marketing intelligence for behavioral health practices
-- **DealerVerse** — AI-powered marketing for dealerships, QSR, and multi-location businesses
 - **NewYorkLab** — Environmental intelligence quantifying climate risk in urban infrastructure
 
 ### Background
