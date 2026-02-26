@@ -12,7 +12,7 @@ President at [Plocamium Holdings](https://www.jamestannahill.com), a hybrid inve
 
 ### Background
 
-Cornell MBA · M.S. Biotechnology · Former equity research (Vaxart, M Science/Jefferies)
+Cornell MBA · M.S. Biotechnology · Former Vaxart, M Science/Jefferies
 
 Focused on operational value creation, analytics implementation, digital transformation, and systems thinking applied to healthcare, national security, and industrials.
 
