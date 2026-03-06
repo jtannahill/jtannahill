@@ -14,7 +14,7 @@ President at [Plocamium Holdings](https://plocamium.com), a hybrid investment an
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [Natasha](https://github.com/jtannahill/twilio-phone-tree) | Streaming AI phone assistant | Node.js, Twilio, Deepgram, Claude, ElevenLabs |
+| [NatashAI](https://github.com/jtannahill/twilio-phone-tree) | Streaming AI phone assistant | Node.js, Twilio, Deepgram, Claude, ElevenLabs |
 | [MonkeyThorn Meet](https://github.com/jtannahill/meet-app) | Private, encrypted video conferencing | Next.js, TypeScript, WebRTC |
 | [Quick Reply](https://github.com/jtannahill/quick-reply) | AI-powered text reply generator for macOS | Python, Claude Haiku |
 | [Resy Sniper](https://github.com/jtannahill/resy-sniper) | Automated restaurant reservation booking | Python |
