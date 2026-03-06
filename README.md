@@ -8,7 +8,7 @@ President at [Plocamium Holdings](https://plocamium.com), a hybrid investment an
 
 - **[1ness Strategies](https://1nessagency.com)** — Compliance-focused digital marketing for healthcare, defense, and regulated sectors
 - **[HLTHvrs](https://hlthvrs.com)** — HIPAA-conscious marketing intelligence for behavioral health practices
-- **[NewYorkLab](newyorklab.co)** — Environmental intelligence quantifying climate risk in urban infrastructure
+- **[NewYorkLab](https://newyorklab.co)** — Environmental intelligence quantifying climate risk in urban infrastructure
 
 ### Projects
 
