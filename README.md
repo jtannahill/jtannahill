@@ -30,6 +30,7 @@ Currently building at the intersection of healthcare, AI, and compliance infrast
 | Resy Sniper | Automated restaurant reservation bot — monitors availability and books the moment slots open | Python, Flask, Resy API |
 | Open Time | Calendar availability widget — shows free/busy slots on macOS and iOS | Swift, WidgetKit, EventKit |
 | Quick Reply | macOS utility generating contextual text replies in multiple tones via keyboard shortcut | Python, Claude Haiku |
+| Plocamium Content Engine | Automated content pipeline — AI-generated thought leadership published on schedule | AWS SAM, Lambda, Bedrock, Metricool API, LinkedIn API |
 | Flipper Bridge | Serial bridge between Flipper Zero hardware and Claude for AI-powered device analysis | Python, Claude |
 
 ---
