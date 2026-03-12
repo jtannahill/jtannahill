@@ -24,7 +24,7 @@ Currently building at the intersection of healthcare, AI, and compliance infrast
 | [HMU API](https://hmuapi.com) | Machine-readable inbox platform — open signup, AI triage, agent-discoverable REST endpoints, reputation graph, live pitch scoring. [Sign up](https://hmuapi.com/signup) | Cloudflare Workers, D1, Hono, Astro 5, React 19, Claude, Resend |
 | NatashAI | Streaming voice AI phone assistant — manages calendar, email, and Zoom via real-time conversation | Node.js, Twilio, Deepgram, Claude, ElevenLabs |
 | [MonkeyThorn Meet](https://monkeythorn.com/meet) | Private, E2E encrypted video conferencing — no accounts, no tracking | Next.js, TypeScript, LiveKit, WebRTC |
-| DomainIQ | Domain portfolio intelligence — AI appraisals, weighted forecasting, and rule-based renewal engine for 266+ domains | SvelteKit, Tailwind, Lambda, DynamoDB, Bedrock |
+| DomainIQ | Domain portfolio intelligence — AI appraisals, weighted forecasting, and rule-based renewal engine for 266+ domains | Next.js, Tailwind, Lambda, DynamoDB, Bedrock |
 | Google Ads Manager | Campaign management with health scoring, anomaly detection, wasted spend analysis, and ROAS benchmarking | Next.js, TypeScript, SQLite |
 | [gOOOvy](https://gooovy.com) | Auto-reply bot for Google Voice texts with native iOS companion app | Python, Swift, SwiftUI |
 | Resy Sniper | Automated restaurant reservation bot — monitors availability and books the moment slots open | Python, Flask, Resy API |
