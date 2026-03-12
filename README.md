@@ -21,7 +21,7 @@ Currently building at the intersection of healthcare, AI, and compliance infrast
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [HMU API](https://hmuapi.com) | Programmable communication gateway with structured endpoints, priority scoring, rate limiting, and auto-triage | Cloudflare Workers, D1, Astro, Resend |
+| [HMU API](https://hmuapi.com) | Machine-readable inbox platform — open signup, AI triage, agent-discoverable REST endpoints, reputation graph, live pitch scoring. [Sign up](https://hmuapi.com/signup) | Cloudflare Workers, D1, Hono, Astro 5, React 19, Claude, Resend |
 | NatashAI | Streaming voice AI phone assistant — manages calendar, email, and Zoom via real-time conversation | Node.js, Twilio, Deepgram, Claude, ElevenLabs |
 | [MonkeyThorn Meet](https://monkeythorn.com/meet) | Private, E2E encrypted video conferencing — no accounts, no tracking | Next.js, TypeScript, LiveKit, WebRTC |
 | DomainIQ | Domain portfolio intelligence — AI appraisals, weighted forecasting, and rule-based renewal engine for 266+ domains | SvelteKit, Tailwind, Lambda, DynamoDB, Bedrock |
