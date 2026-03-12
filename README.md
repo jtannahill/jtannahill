@@ -28,7 +28,7 @@ Currently building at the intersection of healthcare, AI, and compliance infrast
 | Google Ads Manager | Campaign management with health scoring, anomaly detection, wasted spend analysis, and ROAS benchmarking | Next.js, TypeScript, SQLite |
 | [gOOOvy](https://gooovy.com) | Auto-reply bot for Google Voice texts with native iOS companion app | Python, Swift, SwiftUI |
 | Resy Sniper | Automated restaurant reservation bot — monitors availability and books the moment slots open | Python, Flask, Resy API |
-| Open Time | Calendar availability widget — shows free/busy slots on macOS and iOS | Swift, WidgetKit, EventKit |
+| OpenTime | Calendar availability widget — shows free/busy slots on macOS and iOS | Swift, WidgetKit, EventKit |
 | Quick Reply | macOS utility generating contextual text replies in multiple tones via keyboard shortcut | Python, Claude Haiku |
 | Plocamium Content Engine | Automated content pipeline — AI-generated articles with cover images, audio narration, lane filtering, and social scheduling | Lambda, Bedrock, Polly, Nova Canvas, Metricool, LinkedIn API |
 | Flipper Bridge | Serial bridge between Flipper Zero hardware and Claude for AI-powered device analysis | Python, Claude |
