@@ -21,6 +21,7 @@ Currently building at the intersection of healthcare, AI, and compliance infrast
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| Aletheia | OSINT intelligence platform — entity enrichment from 11+ sources, sanctions/PEP screening, graph visualization, geofencing, AI briefs | CDK, Lambda, DynamoDB, Step Functions, SvelteKit, Mapbox, Cytoscape.js |
 | [HMU API](https://hmuapi.com) | Machine-readable inbox platform — open signup, AI triage, agent-discoverable REST endpoints, reputation graph, live pitch scoring. [Sign up](https://hmuapi.com/signup) | Cloudflare Workers, D1, Hono, Astro 5, React 19, Claude, Resend |
 | NatashAI | Streaming voice AI phone assistant — manages calendar, email, and Zoom via real-time conversation | Node.js, Twilio, Deepgram, Claude, ElevenLabs |
 | [MonkeyThorn Meet](https://monkeythorn.com/meet) | Private, E2E encrypted video conferencing — no accounts, no tracking | Next.js, TypeScript, LiveKit, WebRTC |
