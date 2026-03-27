@@ -1,7 +1,7 @@
 <h1 align="center">James Tannahill</h1>
 
 <p align="center">
-  <strong>PE Executive & Founder</strong> — New York City<br/>
+  <strong>Intelligent Capital at <a href="https://x.ai">xAI</a> · PE Executive & Founder</strong> — New York City<br/>
   <em>Building production systems at the intersection of finance, healthcare, and AI</em>
 </p>
 
@@ -30,6 +30,7 @@
   <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=d3dotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Mapbox-000000?style=flat&logo=mapbox&logoColor=white" />
   <img src="https://img.shields.io/badge/LiveKit-000000?style=flat&logo=webrtc&logoColor=white" />
+  <img src="https://img.shields.io/badge/Replicate-000000?style=flat&logo=replicate&logoColor=white" />
 </p>
 
 ---
@@ -62,35 +63,37 @@ I build because operators who ship their own tools make better decisions than th
 
 | Project | What It Does | Stack |
 |---------|-------------|-------|
-| [**Plocamium Content Engine**](https://github.com/jtannahill/plocamium-content-engine) | AI content pipeline + intelligence platform. 3 news sources, 172 RSS feeds / 13 lanes, OpenSearch RAG, 17 post types, brand-aware covers (Flux 1.1 Pro), Polly audio. **ML**: momentum scorer, sector clustering, cross-cluster triggers. **Plocamium Signal Index (PSI)**: daily composite z-score — 5 orthogonal signals (Hawkes, Titan drift, spectral shift, SMD, HHI), Kalman-smoothed, regime-aware (BOCPD), 12 canonical BICS sectors. PSI export PDF, diverging sector heatmap, So What narrative. **6-model link prediction** (GCN, Node2Vec, VGAE, TransE + heuristics). **Entity Intelligence Cards** with 5 proprietary metrics. **Entity watchlists** with 5 alert triggers + daily digest. **150 entity dossier pages**. **[Global Intelligence Network](https://plocamium.com/globals/intelligence)**: D3.js visualization, SEC EDGAR integration | `Step Functions` `Lambda` `Bedrock` `OpenSearch` `SES` `Polly` `Comprehend` `D3.js` `CloudFront` `Kalman Filter` `Node2Vec` `VGAE` `TransE` `BOCPD` `Titan Embeddings` `SEC EDGAR` `ReportLab` |
+| [**Plocamium Content Engine**](https://github.com/jtannahill/plocamium-content-engine) | AI content pipeline + intelligence platform. 3 news sources, 172 RSS feeds / 13 lanes, OpenSearch RAG, 17 post types, brand-aware covers (Flux 1.1 Pro), Polly audio. **ML**: momentum scorer, sector clustering, cross-cluster triggers. **Plocamium Signal Index (PSI)**: daily composite z-score — 5 orthogonal signals (Hawkes, Titan drift, spectral shift, SMD, HHI), Kalman-smoothed, regime-aware (BOCPD), 12 canonical BICS sectors. PSI export PDF, diverging sector heatmap, So What narrative. **6-model link prediction** (GCN, Node2Vec, VGAE, TransE + heuristics). **Entity Intelligence Cards** with 5 proprietary metrics. **Entity watchlists** with 5 alert triggers + daily digest. **150 entity dossier pages**. **[Global Intelligence Network](https://plocamium.com/globals/intelligence)**: D3.js visualization, SEC EDGAR integration | `Step Functions` `Lambda` `Bedrock` `OpenSearch` `SES` `Polly` `Comprehend` `Replicate` `D3.js` `CloudFront` `Kalman Filter` `Node2Vec` `VGAE` `TransE` `BOCPD` `Titan Embeddings` `SEC EDGAR` `ReportLab` |
 | [**Argus**](https://github.com/jtannahill/argus) | Building intelligence for NYC — point your phone at any building for ownership, value, violations, air rights, diplomatic status. GPS + 3D ray casting with LiDAR heights, CLIP visual matching (20K embeddings), Bedrock AI narratives, 8 NYC public data APIs | `Swift 6` `CDK` `Lambda` `DynamoDB` `SageMaker (CLIP)` `Bedrock` `Step Functions` `Mapbox` `Cognito` |
-| **Aletheia** | OSINT intelligence — entity enrichment from 11+ sources, sanctions/PEP screening, graph visualization, geofencing, AI briefs | `CDK` `Lambda` `DynamoDB` `Step Functions` `SvelteKit` `Mapbox` `Cytoscape.js` |
-| **Email Intel** | Email header analysis + org infrastructure profiling. 147 orgs profiled, rules-based change classifier (positive/negative/neutral), web dashboard | `Python` `Click` `Jinja2` |
+| **Aletheia** _(in development)_ | OSINT intelligence — entity enrichment from 11+ sources, sanctions/PEP screening, graph visualization, geofencing, AI briefs | `CDK` `Lambda` `DynamoDB` `Step Functions` `SvelteKit` `Mapbox` `Cytoscape.js` |
+| **Email Intel** | Email header analysis + org infrastructure profiling. 147 orgs profiled, rules-based change classifier (positive/negative/neutral), web dashboard | `Python` `Lambda` `DynamoDB` `Bedrock` `CDK` |
 | [**DomainIQ**](https://d17ia582bwv8z0.cloudfront.net) | Domain portfolio intelligence — SageMaker XGBoost valuation model, AI appraisals, weighted forecasting, rule-based renewal engine for 307+ domains | `SvelteKit` `Tailwind` `CDK` `Lambda` `DynamoDB` `SageMaker` `Bedrock` |
-| **LeadFlow** | Real estate lead intelligence — county records, skip trace enrichment, AI scoring, weekly delivery for South Florida agents | `CDK` `Lambda` `DynamoDB` `ECS Fargate` `Playwright` `SQS` `Bedrock` |
+| **LeadFlow** _(in development)_ | Real estate lead intelligence — county records, skip trace enrichment, AI scoring, weekly delivery for South Florida agents | `CDK` `Lambda` `DynamoDB` `ECS Fargate` `Playwright` `SQS` `Bedrock` |
 
 #### Creative & Generative
 
 | Project | What It Does | Stack |
 |---------|-------------|-------|
-| [**Art Generator**](https://art.jamestannahill.com) | Daily generative art from live atmospheric data — 50 global weather stations, 11 artist styles, 249+ artworks, satellite color palettes from Copernicus Sentinel-2. ML art critic, weather forecaster, dynamic pricing. Newsletter, print shop, RSS syndication | `CDK` `Step Functions` `Lambda` `Bedrock` `Open-Meteo` `Sentinel Hub` `Resend` `S3` `CloudFront` |
+| [**Art Generator**](https://art.jamestannahill.com) | Daily generative art from live atmospheric data — 50 global weather stations, 11 artist styles, 249+ artworks, satellite color palettes from Copernicus Sentinel-2. Rendered by Flux 1.1 Pro. ML art critic, weather forecaster, dynamic pricing. Newsletter, print shop, RSS syndication | `CDK` `Step Functions` `Lambda` `Replicate (Flux 1.1 Pro)` `Bedrock` `Open-Meteo` `Sentinel Hub` `Resend` `S3` `CloudFront` |
 | [**FX30 Pipeline**](https://media.jamestannahill.com/browse/) | Live streaming + recording — IVS broadcast, MediaConvert transcoding, Transcribe + Bedrock analysis, media gallery with download/embed | `Lambda` `IVS` `MediaConvert` `Transcribe` `Bedrock` `CloudFront` |
 
 #### Communications & Platforms
 
 | Project | What It Does | Stack |
 |---------|-------------|-------|
-| **NatashAI** | Streaming voice AI phone assistant — manages calendar, email, and Zoom via real-time conversation. 30 tools, 14 services. Live at natasha.monkeythorn.com | `Node.js` `ECS Fargate` `Twilio` `Deepgram` `Claude` `ElevenLabs` |
+| **NatashAI** | Streaming voice AI phone assistant — manages calendar, email, and Zoom via real-time conversation. 30 tools, 14 services. Live at [natasha.monkeythorn.com](https://natasha.monkeythorn.com) | `Node.js` `ECS Fargate` `Twilio` `Deepgram` `Claude` `ElevenLabs` |
 | [**HMU API**](https://hmuapi.com) | Machine-readable inbox — open signup, AI triage, agent-discoverable REST endpoints, reputation graph, live pitch scoring | `Cloudflare Workers` `D1` `Hono` `Astro 5` `React 19` `Claude` `Resend` |
 | [**MonkeyThorn Meet**](https://meet.monkeythorn.com/meet) | Private, E2E encrypted video conferencing — no accounts, no tracking | `Next.js` `TypeScript` `LiveKit` `WebRTC` |
-| [**1ness Insights**](https://www.1nessagency.com/insights) | Auto-publishing blog for 1ness Strategies — content engine integration, brand-aware covers, FAQ extraction | `Cloudflare Workers` `Bedrock` `S3` `CloudFront` |
+| [**1ness Strategies Site**](https://www.1nessagency.com) | Self-hosted marketing site — 40 pages, 4 case studies, 8 service landing pages, glossary, full SEO/schema/AIO. Auto-publish pipeline via EventBridge → GitHub Actions | `Astro 6` `S3` `CloudFront` `CDK` `GitHub Actions` |
+| [**1ness Insights**](https://www.1nessagency.com/blog) | Auto-publishing blog for 1ness Strategies — content engine integration, brand-aware covers, auto-deployed via GitHub Actions | `Astro 6` `Cloudflare Workers` `KV` `Bedrock Haiku` `S3` `CloudFront` |
 | **Google Ads Manager** | Campaign management with health scoring, anomaly detection, wasted spend analysis, ROAS benchmarking | `Next.js` `TypeScript` `SQLite` |
 
 #### Utilities
 
 | Project | What It Does | Stack |
 |---------|-------------|-------|
-| [**gOOOvy**](https://gooovy.com) | Auto-reply bot for Google Voice texts with native iOS companion app | `Python` `Swift` `SwiftUI` |
+| [**gOOOvy**](https://gooovy.com) | Auto-reply bot for Google Voice texts — dual-tier (free + Pro at $8.99/mo), VIP contacts, scheduling, native iOS companion app, OAuth brand-verified | `Python` `Swift` `SwiftUI` `CDK` `Lambda` `DynamoDB` `Stripe` `Apple IAP` |
+| [**jamestannahill.com**](https://www.jamestannahill.com) | Personal site — interactive map, tactical business card, MECARD QR, self-hosted font CDN. 3 CloudFront distributions | `Mapbox` `S3` `CloudFront` `CDK` |
 | [**OpenTime**](https://apps.apple.com/us/app/opentime/id6760204246) | Calendar availability widget — free/busy slots on macOS and iOS | `Swift` `WidgetKit` `EventKit` |
 | **Resy Sniper** | Automated restaurant reservation bot — monitors and books the moment slots open | `Python` `Flask` `Resy API` |
 | **Quick Reply** | macOS utility — contextual text replies in multiple tones via keyboard shortcut | `Python` `Claude Haiku` |
