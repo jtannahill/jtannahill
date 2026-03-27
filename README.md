@@ -68,6 +68,7 @@ I build because operators who ship their own tools make better decisions than th
 | **Aletheia** _(in development)_ | OSINT intelligence — entity enrichment from 11+ sources, sanctions/PEP screening, graph visualization, geofencing, AI briefs | `CDK` `Lambda` `DynamoDB` `Step Functions` `SvelteKit` `Mapbox` `Cytoscape.js` |
 | **Email Intel** | Email header analysis + org infrastructure profiling. 147 orgs profiled, rules-based change classifier (positive/negative/neutral), web dashboard | `Python` `Lambda` `DynamoDB` `Bedrock` `CDK` |
 | [**DomainIQ**](https://d17ia582bwv8z0.cloudfront.net) | Domain portfolio intelligence — SageMaker XGBoost valuation model, AI appraisals, weighted forecasting, rule-based renewal engine for 307+ domains | `SvelteKit` `Tailwind` `CDK` `Lambda` `DynamoDB` `SageMaker` `Bedrock` |
+| [**Edgar Intel**](https://github.com/jtannahill/edgar-intel) | CLI-first SEC filing intelligence — XBRL financials, 8-K events, Form 4 insiders, SC 13D stakes, proxy filings, comment letters. Russell 1000 universe. WACC estimation, NL comparison, balance sheet/ratio analysis, sensitivity heatmaps. 8 crawler Lambdas, Bedrock AI summaries | `Python` `CDK` `Lambda` `DynamoDB` `S3` `Bedrock` `API Gateway` `Chart.js` `Tailwind` |
 | **LeadFlow** _(in development)_ | Real estate lead intelligence — county records, skip trace enrichment, AI scoring, weekly delivery for South Florida agents | `CDK` `Lambda` `DynamoDB` `ECS Fargate` `Playwright` `SQS` `Bedrock` |
 
 #### Creative & Generative
