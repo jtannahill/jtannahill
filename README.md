@@ -78,6 +78,12 @@ I build because operators who ship their own tools make better decisions than th
 | [**Art Generator**](https://art.jamestannahill.com) | Daily generative art from live atmospheric data — 50 global weather stations, 11 artist styles, 249+ artworks, satellite color palettes from Copernicus Sentinel-2. Rendered by Flux 1.1 Pro. ML art critic, weather forecaster, dynamic pricing. Newsletter, print shop, RSS syndication | `CDK` `Step Functions` `Lambda` `Replicate (Flux 1.1 Pro)` `Bedrock` `Open-Meteo` `Sentinel Hub` `Resend` `S3` `CloudFront` |
 | [**FX30 Pipeline**](https://media.jamestannahill.com/browse/) | Live streaming + recording — IVS broadcast, MediaConvert transcoding, Transcribe + Bedrock analysis, media gallery with download/embed | `Lambda` `IVS` `MediaConvert` `Transcribe` `Bedrock` `CloudFront` |
 
+#### Expression Intelligence
+
+| Project | What It Does | Stack |
+|---------|-------------|-------|
+| [**PRISM**](https://github.com/jtannahill/prism-ios) | Real-time expression intelligence for video calls — live floating HUD over Zoom and Google Meet. Self-analysis via ARKit TrueDepth (52 blend shapes at 60fps). Remote participant analysis via ReplayKit screen capture + Vision face landmarks. 6 composite signals: engagement, stress, smile authenticity, cognitive load, contempt, suppression. Key moment detection, post-session timeline dashboard, iCloud sync | `Swift` `SwiftUI` `ARKit` `Vision` `ReplayKit` `AVKit` `Swift Charts` |
+
 #### Communications & Platforms
 
 | Project | What It Does | Stack |
