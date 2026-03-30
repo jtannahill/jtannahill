@@ -93,6 +93,7 @@ I build because operators who ship their own tools make better decisions than th
 
 | Project | What It Does | Stack |
 |---------|-------------|-------|
+| [**VECTOR**](https://github.com/jtannahill/vector-nfc) | Universal NFC reader — decodes every tag type reachable from CoreNFC on iOS 17+: NDEF, ISO 7816 (PIV/CAC/EMV/FIDO2), ISO 14443-B, ISO 15693, MIFARE, FeliCa, and PACE/ePassport (ICAO 9303 EF.CardAccess). Intelligent payload decoding, APDU exchange logging, cancel-scan gesture, AWS DynamoDB scan history | `Swift` `SwiftUI` `CoreNFC` `AWS SAM` `Lambda` `DynamoDB` `API Gateway` |
 | [**gOOOvy**](https://gooovy.com) | Auto-reply bot for Google Voice texts — dual-tier (free + Pro at $8.99/mo), VIP contacts, scheduling, native iOS companion app, OAuth brand-verified | `Python` `Swift` `SwiftUI` `CDK` `Lambda` `DynamoDB` `Stripe` `Apple IAP` |
 | [**jamestannahill.com**](https://www.jamestannahill.com) | Personal site — interactive map, tactical business card, MECARD QR, self-hosted font CDN. 3 CloudFront distributions | `Mapbox` `S3` `CloudFront` `CDK` |
 | [**OpenTime**](https://apps.apple.com/us/app/opentime/id6760204246) | Calendar availability widget — free/busy slots on macOS and iOS | `Swift` `WidgetKit` `EventKit` |
