@@ -17,20 +17,31 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/AWS_CDK-232F3E?style=flat&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Bedrock-FF9900?style=flat&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Step_Functions-FF4F8B?style=flat&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/SageMaker-7B68EE?style=flat&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=awslambda&logoColor=white" />
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/ECS_Fargate-FF9900?style=flat&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=flat&logo=opensearch&logoColor=white" />
   <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=flat&logo=svelte&logoColor=white" />
   <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare_Pages-F38020?style=flat&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=d3dotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Mapbox-000000?style=flat&logo=mapbox&logoColor=white" />
   <img src="https://img.shields.io/badge/LiveKit-000000?style=flat&logo=webrtc&logoColor=white" />
   <img src="https://img.shields.io/badge/Replicate-000000?style=flat&logo=replicate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=twilio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deepgram-13EF93?style=flat&logo=deepgram&logoColor=black" />
+  <img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat&logo=elevenlabs&logoColor=white" />
 </p>
 
 ---
@@ -88,11 +99,12 @@ I build because operators who ship their own tools make better decisions than th
 
 | Project | What It Does | Stack |
 |---------|-------------|-------|
-| **NatashAI** | Streaming voice AI phone assistant — manages calendar, email, and Zoom via real-time conversation. 30 tools, 14 services. Live at [natasha.monkeythorn.com](https://natasha.monkeythorn.com) | `Node.js` `ECS Fargate` `Twilio` `Deepgram` `Claude` `ElevenLabs` |
-| [**HMU API**](https://hmuapi.com) | Machine-readable inbox — open signup, AI triage, agent-discoverable REST endpoints, reputation graph, live pitch scoring | `Cloudflare Workers` `D1` `Hono` `Astro 5` `React 19` `Claude` `Resend` |
-| [**MonkeyThorn Meet**](https://meet.monkeythorn.com/meet) | Private, E2E encrypted video conferencing — no accounts, no tracking | `Next.js` `TypeScript` `LiveKit` `WebRTC` |
+| **NatashAI** | Streaming voice AI phone assistant — manages calendar, email, and Zoom via real-time conversation. 30 tools, 14 services. Live at [natasha.monkeythorn.com](https://natasha.monkeythorn.com) | `Node.js` `ECS Fargate` `Docker` `Twilio` `Deepgram` `Claude` `ElevenLabs` |
+| [**HMU API**](https://hmuapi.com) | Machine-readable inbox — open signup, AI triage, agent-discoverable REST endpoints, reputation graph, live pitch scoring | `Cloudflare Workers` `Cloudflare Pages` `D1` `Hono` `Astro 5` `React 19` `Claude` `Resend` |
+| [**MonkeyThorn Meet**](https://meet.monkeythorn.com/meet) | Private, E2E encrypted video conferencing — no accounts, no tracking | `Next.js` `TypeScript` `LiveKit` `WebRTC` `Docker` |
 | [**1ness Strategies Site**](https://www.1nessagency.com) | Self-hosted marketing site — 40 pages, 4 case studies, 8 service landing pages, glossary, full SEO/schema/AIO. Auto-publish pipeline via EventBridge → GitHub Actions | `Astro 6` `S3` `CloudFront` `CDK` `GitHub Actions` |
 | [**1ness Insights**](https://www.1nessagency.com/blog) | Auto-publishing blog for 1ness Strategies — content engine integration, brand-aware covers, auto-deployed via GitHub Actions | `Astro 6` `Cloudflare Workers` `KV` `Bedrock Haiku` `S3` `CloudFront` |
+| [**Project Zulu**](https://github.com/jtannahill/project-zulu) | xAI Hackathon — Chrome extension surfacing live X conversation intelligence on any webpage, powered by Grok. Video-aware, context-aware, real-time | `Chrome Extensions` `TypeScript` `Grok API` `xAI` |
 | **Google Ads Manager** | Campaign management with health scoring, anomaly detection, wasted spend analysis, ROAS benchmarking | `Next.js` `TypeScript` `SQLite` |
 
 #### Utilities
@@ -102,7 +114,8 @@ I build because operators who ship their own tools make better decisions than th
 | [**SigScan**](https://github.com/jtannahill/SigScan) | Personal RF environment scanner for iOS — BLE device fingerprinting (50+ vendors, RSSI-based distance estimates, device classification), NFC tag decoding, WiFi/cellular info, GPS-stamped scan logging with map view, AR overlay with world-space bubble placement and RSSI trilateration, on-device anomaly/risk detection, Claude AI query interface (key via AWS Secrets Manager) | `Swift` `SwiftUI` `CoreBluetooth` `CoreNFC` `ARKit` `RealityKit` `SwiftData` `MapKit` `CoreLocation` `CryptoKit` |
 | [**VECTOR**](https://github.com/jtannahill/vector-nfc) | Universal NFC reader — decodes every tag type reachable from CoreNFC on iOS 17+: NDEF, ISO 7816 (PIV/CAC/EMV/FIDO2), ISO 14443-B, ISO 15693, MIFARE, FeliCa, and PACE/ePassport (ICAO 9303 EF.CardAccess). Intelligent payload decoding, APDU exchange logging, cancel-scan gesture, AWS DynamoDB scan history | `Swift` `SwiftUI` `CoreNFC` `AWS SAM` `Lambda` `DynamoDB` `API Gateway` |
 | [**gOOOvy**](https://gooovy.com) | Auto-reply bot for Google Voice texts — dual-tier (free + Pro at $8.99/mo), VIP contacts, scheduling, native iOS companion app, OAuth brand-verified | `Python` `Swift` `SwiftUI` `CDK` `Lambda` `DynamoDB` `Stripe` `Apple IAP` |
-| [**jamestannahill.com**](https://www.jamestannahill.com) | Personal site — interactive map, tactical business card, MECARD QR, self-hosted font CDN. 3 CloudFront distributions | `Mapbox` `S3` `CloudFront` `CDK` |
+| [**wx.jamestannahill.com**](https://wx.jamestannahill.com) | Live hyperlocal weather dashboard for Midtown Manhattan — 5-minute resolution personal weather station data, analog forecast (nearest-neighbor pattern matching on 90 days of history), comfort score, rain probability, urban heat island delta vs JFK/LGA/EWR, station records, uPlot history charts | `JavaScript` `AWS CDK` `Lambda` `DynamoDB` `S3` `CloudFront` `Ambient Weather` `NOAA` `Apple WeatherKit` |
+| [**jamestannahill.com**](https://www.jamestannahill.com) | Personal portfolio — Astro 6, full SEO/schema/AIO, self-hosted NHG Display font CDN. Subdomains: interactive Mapbox map, tactical digital business card with MECARD QR + Apple Wallet pass | `Astro 6` `Tailwind` `S3` `CloudFront` `CDK` `Mapbox` |
 | [**OpenTime**](https://apps.apple.com/us/app/opentime/id6760204246) | Calendar availability widget — free/busy slots on macOS and iOS | `Swift` `WidgetKit` `EventKit` |
 | **Resy Sniper** | Automated restaurant reservation bot — monitors and books the moment slots open | `Python` `Flask` `Resy API` |
 | **Quick Reply** | macOS utility — contextual text replies in multiple tones via keyboard shortcut | `Python` `Claude Haiku` |
