@@ -64,7 +64,7 @@ I build because operators who ship their own tools make better decisions than th
 | **[1ness Strategies](https://1nessagency.com)** | Compliance-focused digital marketing for healthcare and regulated sectors |
 | **[HLTHvrs](https://hlthvrs.com)** | Marketing intelligence platform for behavioral health |
 | **[NewYorkLab](https://newyorklab.co)** | Environmental intelligence for urban climate risk |
-| **[MonkeyThorn](https://monkeythorn.com)** | Privacy-first communications infrastructure (Meet, NatashAI) |
+| **[MonkeyThorn](https://meet.monkeythorn.com/meet)** | Privacy-first communications infrastructure (Meet, NatashAI) |
 
 ---
 
