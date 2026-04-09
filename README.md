@@ -104,7 +104,7 @@ I build because operators who ship their own tools make better decisions than th
 | [**MonkeyThorn Meet**](https://meet.monkeythorn.com/meet) | Private, E2E encrypted video conferencing — no accounts, no tracking | `Next.js` `TypeScript` `LiveKit` `WebRTC` `Docker` |
 | [**1ness Strategies Site**](https://www.1nessagency.com) | Self-hosted marketing site — 40 pages, 4 case studies, 8 service landing pages, glossary, full SEO/schema/AIO. Auto-publish pipeline via EventBridge → GitHub Actions | `Astro 6` `S3` `CloudFront` `CDK` `GitHub Actions` |
 | [**1ness Insights**](https://www.1nessagency.com/blog) | Auto-publishing blog for 1ness Strategies — content engine integration, brand-aware covers, auto-deployed via GitHub Actions | `Astro 6` `Cloudflare Workers` `KV` `Bedrock Haiku` `S3` `CloudFront` |
-| [**Project Zulu**](https://github.com/jtannahill/project-zulu) | xAI Hackathon — Chrome extension surfacing live X conversation intelligence on any webpage, powered by Grok. Video-aware, context-aware, real-time | `Chrome Extensions` `TypeScript` `Grok API` `xAI` |
+| **Project Zulu** | *(private)* | `Chrome Extensions` `TypeScript` `Grok API` `xAI` |
 | **Google Ads Manager** | Campaign management with health scoring, anomaly detection, wasted spend analysis, ROAS benchmarking | `Next.js` `TypeScript` `SQLite` |
 
 #### Utilities
