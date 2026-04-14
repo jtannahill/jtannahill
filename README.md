@@ -38,6 +38,8 @@
   <img src="https://img.shields.io/badge/Mapbox-000000?style=flat&logo=mapbox&logoColor=white" />
   <img src="https://img.shields.io/badge/LiveKit-000000?style=flat&logo=webrtc&logoColor=white" />
   <img src="https://img.shields.io/badge/Replicate-000000?style=flat&logo=replicate&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white" />
   <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=twilio&logoColor=white" />
   <img src="https://img.shields.io/badge/Deepgram-13EF93?style=flat&logo=deepgram&logoColor=black" />
@@ -111,6 +113,8 @@ I build because operators who ship their own tools make better decisions than th
 
 | Project | What It Does | Stack |
 |---------|-------------|-------|
+| [**subway-intel**](https://mta.jamestannahill.com) | Real-time NYC subway intelligence — live train positions, m:ss countdowns ticking every second, track diagrams with moving train dots anchored to your location, arrival feedback loop (Y/N corrections applied per-route), smart commute timing, heuristic delay scoring before the MTA announces delays. Mobile-first + iOS PWA | `Python` `FastAPI` `WebSockets` `React 19` `TypeScript` `TimescaleDB` `PostgreSQL` `EC2` `Cloudflare` `MTA GTFS-RT` |
+| [**wx.jamestannahill.com**](https://wx.jamestannahill.com) | Live hyperlocal weather dashboard for Midtown Manhattan — Ambient Weather WS-2902 at 5-min resolution, Today in History panel (156yr NOAA + 85yr ERA5, deviation bars at p5/p50/p95), WeatherKit 7-day forecast, NWS active alerts, analog forecast via nearest-neighbor pattern matching, rain probability (logistic regression), urban heat island delta vs JFK/LGA/EWR, comfort calendar, station records, uPlot history charts | `Python` `FastAPI` `AWS CDK` `Lambda` `DynamoDB` `S3` `CloudFront` `Ambient Weather` `NOAA GHCN` `ERA5` `Apple WeatherKit` |
 | [**SigScan**](https://github.com/jtannahill/SigScan) | Personal RF environment scanner for iOS — BLE device fingerprinting (50+ vendors, RSSI-based distance estimates, device classification), NFC tag decoding, WiFi/cellular info, GPS-stamped scan logging with map view, AR overlay with world-space bubble placement and RSSI trilateration, on-device anomaly/risk detection, Claude AI query interface (key via AWS Secrets Manager) | `Swift` `SwiftUI` `CoreBluetooth` `CoreNFC` `ARKit` `RealityKit` `SwiftData` `MapKit` `CoreLocation` `CryptoKit` |
 | [**VECTOR**](https://github.com/jtannahill/vector-nfc) | Universal NFC reader — decodes every tag type reachable from CoreNFC on iOS 17+: NDEF, ISO 7816 (PIV/CAC/EMV/FIDO2), ISO 14443-B, ISO 15693, MIFARE, FeliCa, and PACE/ePassport (ICAO 9303 EF.CardAccess). Intelligent payload decoding, APDU exchange logging, cancel-scan gesture, AWS DynamoDB scan history | `Swift` `SwiftUI` `CoreNFC` `AWS SAM` `Lambda` `DynamoDB` `API Gateway` |
 | [**gOOOvy**](https://gooovy.com) | Auto-reply bot for Google Voice texts — dual-tier (free + Pro at $8.99/mo), VIP contacts, scheduling, native iOS companion app, OAuth brand-verified | `Python` `Swift` `SwiftUI` `CDK` `Lambda` `DynamoDB` `Stripe` `Apple IAP` |
