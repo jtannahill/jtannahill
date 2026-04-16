@@ -1,8 +1,11 @@
 <h1 align="center">James Tannahill</h1>
 
 <p align="center">
-  <strong>Intelligent Capital at <a href="https://x.ai">xAI</a> · PE Executive & Founder</strong> — New York City<br/>
-  <em>Building production systems at the intersection of finance, healthcare, and AI</em>
+  <strong>Intelligent Capital at <a href="https://x.ai">xAI</a> · PE Executive & Founder</strong> — New York City
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2000&color=1A3A5C&center=true&vCenter=true&width=600&lines=Building+production+systems+at+the+intersection+of+finance%2C+healthcare%2C+and+AI;PE+Executive+%C2%B7+Founder+%C2%B7+Engineer+%C2%B7+New+York+City;30+repos+in+production;The+gap+between+possible+and+deployed+is+where+value+gets+destroyed." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -132,6 +135,12 @@ I build because operators who ship their own tools make better decisions than th
 Cornell MBA · M.S. Biotechnology · Former Vaxart, M Science/Jefferies
 
 ---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jtannahill/jtannahill/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jtannahill/jtannahill/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jtannahill/jtannahill/output/github-contribution-grid-snake.svg">
+</picture>
 
 <p align="center">
   <a href="https://www.jamestannahill.com">jamestannahill.com</a> ·
