@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2000&color=1A3A5C&center=true&vCenter=true&width=600&lines=Building+production+systems+at+the+intersection+of+finance%2C+healthcare%2C+and+AI;PE+Executive+%C2%B7+Founder+%C2%B7+Engineer+%C2%B7+New+York+City;30+repos+in+production;The+gap+between+possible+and+deployed+is+where+value+gets+destroyed." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+production+systems+at+the+intersection+of+finance%2C+healthcare%2C+and+AI;PE+Executive+%C2%B7+Founder+%C2%B7+Engineer+%C2%B7+New+York+City;30+repos+in+production;The+gap+between+possible+and+deployed+is+where+value+gets+destroyed." alt="Typing SVG" />
 </p>
 
 <p align="center">
