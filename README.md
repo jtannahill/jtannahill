@@ -70,7 +70,7 @@ I build because operators who ship their own tools make better decisions than th
 | **[1ness Strategies](https://1nessagency.com)** | Compliance-focused digital marketing for healthcare and regulated sectors |
 | **[HLTHvrs](https://hlthvrs.com)** | Marketing intelligence platform for behavioral health |
 | **[NewYorkLab](https://newyorklab.co)** | Environmental intelligence for urban climate risk |
-| **[MonkeyThorn](https://meet.monkeythorn.com/meet)** | Privacy-first communications infrastructure (Meet, NatashAI) |
+| **[MonkeyThorn](https://monkeythorn.com)** | Privacy-first communications infrastructure (Meet, NatashAI) |
 
 ---
 
@@ -84,8 +84,8 @@ I build because operators who ship their own tools make better decisions than th
 | [**Argus**](https://github.com/jtannahill/argus) | Building intelligence for NYC: point your phone at any building for ownership, value, violations, air rights, diplomatic status. GPS + 3D ray casting with LiDAR heights, CLIP visual matching (20K embeddings), Bedrock AI narratives, 8 NYC public data APIs | `Swift 6` `CDK` `Lambda` `DynamoDB` `SageMaker (CLIP)` `Bedrock` `Step Functions` `Mapbox` `Cognito` |
 | **Aletheia** _(in development)_ | OSINT intelligence: entity enrichment from 11+ sources, sanctions/PEP screening, graph visualization, geofencing, AI briefs | `CDK` `Lambda` `DynamoDB` `Step Functions` `SvelteKit` `Mapbox` `Cytoscape.js` |
 | [**Email Intel**](https://github.com/jtannahill/email-intel) | Email header analysis + org infrastructure profiling. 147 orgs profiled, rules-based change classifier (positive/negative/neutral), web dashboard | `Python` `Click` `Flask` `SQLite` |
-| [**DomainIQ**](https://d17ia582bwv8z0.cloudfront.net) | Domain portfolio intelligence: SageMaker XGBoost valuation model, AI appraisals, weighted forecasting, rule-based renewal engine for 307+ domains | `SvelteKit` `Tailwind` `CDK` `Lambda` `DynamoDB` `SageMaker` `Bedrock` |
-| [**Edgar Intel**](https://github.com/jtannahill/edgar-intel) | CLI-first SEC filing intelligence: XBRL financials, 8-K events, Form 4 insiders, SC 13D stakes, proxy filings, comment letters. Russell 1000 universe. WACC estimation, NL comparison, balance sheet/ratio analysis, sensitivity heatmaps. 8 crawler Lambdas, Bedrock AI summaries | `Python` `CDK` `Lambda` `DynamoDB` `S3` `Bedrock` `API Gateway` `Chart.js` `Tailwind` |
+| **DomainIQ** | Domain portfolio intelligence: SageMaker XGBoost valuation model, AI appraisals, weighted forecasting, rule-based renewal engine for 307+ domains | `SvelteKit` `Tailwind` `CDK` `Lambda` `DynamoDB` `SageMaker` `Bedrock` |
+| **Edgar Intel** | CLI-first SEC filing intelligence: XBRL financials, 8-K events, Form 4 insiders, SC 13D stakes, proxy filings, comment letters. Russell 1000 universe. WACC estimation, NL comparison, balance sheet/ratio analysis, sensitivity heatmaps. 8 crawler Lambdas, Bedrock AI summaries | `Python` `CDK` `Lambda` `DynamoDB` `S3` `Bedrock` `API Gateway` `Chart.js` `Tailwind` |
 | **LeadFlow** _(in development)_ | Real estate lead intelligence: county records, skip trace enrichment, AI scoring, weekly delivery for South Florida agents | `CDK` `Lambda` `DynamoDB` `ECS Fargate` `Playwright` `SQS` `Bedrock` |
 
 #### Creative & Generative
@@ -105,13 +105,13 @@ I build because operators who ship their own tools make better decisions than th
 
 | Project | What It Does | Stack |
 |---------|-------------|-------|
-| **NatashAI** | Streaming voice AI phone assistant: manages calendar, email, and Zoom via real-time conversation. 30 tools, 14 services. Live at [natasha.monkeythorn.com](https://natasha.monkeythorn.com) | `Node.js` `ECS Fargate` `Docker` `Twilio` `Deepgram` `Claude` `ElevenLabs` |
+| **NatashAI** | Streaming voice AI phone assistant: manages calendar, email, and Zoom via real-time conversation. 30 tools, 14 services. Live at [monkeythorn.com/admin](https://monkeythorn.com/admin) | `Node.js` `ECS Fargate` `Docker` `Twilio` `Deepgram` `Claude` `ElevenLabs` |
 | [**HMU API**](https://hmuapi.com) | Machine-readable inbox: open signup, AI triage, agent-discoverable REST endpoints, reputation graph, live pitch scoring | `Cloudflare Workers` `Cloudflare Pages` `D1` `Hono` `Astro 5` `React 19` `Claude` `Resend` |
-| [**MonkeyThorn Meet**](https://meet.monkeythorn.com/meet) | Private, E2E encrypted video conferencing: no accounts, no tracking | `Next.js` `TypeScript` `LiveKit` `WebRTC` `Docker` |
+| [**MonkeyThorn Meet**](https://meet.monkeythorn.com) | Private, E2E encrypted video conferencing: no accounts, no tracking | `Next.js` `TypeScript` `LiveKit` `WebRTC` `Docker` |
 | [**1ness Strategies Site**](https://www.1nessagency.com) | Self-hosted marketing site: 40 pages, 4 case studies, 8 service landing pages, glossary, full SEO/schema/AIO. Auto-publish pipeline via EventBridge → GitHub Actions | `Astro 6` `S3` `CloudFront` `CDK` `GitHub Actions` |
 | [**1ness Insights**](https://www.1nessagency.com/blog) | Auto-publishing blog for 1ness Strategies: content engine integration, brand-aware covers, auto-deployed via GitHub Actions | `Astro 6` `Cloudflare Workers` `KV` `Bedrock Haiku` `S3` `CloudFront` |
 | **Project Zulu** | *(private)* | `Chrome Extensions` `TypeScript` `Grok API` `xAI` |
-| **Google Ads Manager** | Campaign management with health scoring, anomaly detection, wasted spend analysis, ROAS benchmarking | `Next.js` `TypeScript` `SQLite` |
+| **Google Ads Manager** | Campaign management with health scoring, anomaly detection, wasted spend analysis, ROAS benchmarking | `Next.js` `TypeScript` `SQLite` `Google Ads API` |
 
 #### Utilities
 
@@ -125,6 +125,7 @@ I build because operators who ship their own tools make better decisions than th
 | [**jamestannahill.com**](https://www.jamestannahill.com) | Personal portfolio: Astro 6, full SEO/schema/AIO, self-hosted NHG Display font CDN. Subdomains: interactive Mapbox map, tactical digital business card with MECARD QR + Apple Wallet pass | `Astro 6` `Tailwind` `S3` `CloudFront` `CDK` `Mapbox` |
 | [**OpenTime**](https://apps.apple.com/us/app/opentime/id6760204246) | Calendar availability widget: free/busy slots on macOS and iOS | `Swift` `WidgetKit` `EventKit` |
 | **Resy Sniper** | Automated restaurant reservation bot: monitors and books the moment slots open | `Python` `Flask` `Resy API` |
+| **Oresh Watcher** | SevenRooms reservation watcher: monitors target venues, detects open slots in real time, emails alerts. Behind Cloudflare Tunnel + Access | `Python` `Flask` `Astro` `SQLite` `Cloudflare Tunnel` `systemd` `EC2 t4g.nano` |
 | **Quick Reply** | macOS utility: contextual text replies in multiple tones via keyboard shortcut | `Python` `Claude Haiku` |
 | **Flipper Bridge** | Flipper Zero + Claude AI bridge for hardware analysis | `Python` `Claude` |
 
