@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.jamestannahill.com">jamestannahill.com</a> ·
+  <a href="https://jamestannahill.com">jamestannahill.com</a> ·
   <a href="https://www.linkedin.com/in/jamesstannahill/">LinkedIn</a> ·
   <a href="https://plocamium.com">Plocamium Holdings</a> ·
   <a href="https://www.bloomberg.com/profile/person/23291921">Bloomberg</a> ·
@@ -122,12 +122,9 @@ I build because operators who ship their own tools make better decisions than th
 | [**SigScan**](https://github.com/jtannahill/SigScan) | Personal RF environment scanner for iOS: BLE device fingerprinting (50+ vendors, RSSI-based distance, device classification), NFC tag decoding, WiFi/cellular info, GPS-stamped scan logging with map view. **AR overlay**: LiDAR mesh occlusion + depth-guided placement, RSSI beam-forming (exponentially weighted camera forward vectors to infer device direction from rotation), gradient-descent trilateration blended with beam-forming, adaptive re-anchoring with distance-scaled thresholds, edge compass arrows for off-screen devices, same-floor filter via ARKit Y-axis. On-device anomaly/risk detection, Claude AI query interface (key via AWS Secrets Manager) | `Swift` `SwiftUI` `CoreBluetooth` `CoreNFC` `ARKit` `RealityKit` `LiDAR` `SwiftData` `MapKit` `CoreLocation` `CryptoKit` |
 | [**VECTOR**](https://github.com/jtannahill/vector-nfc) | Universal NFC reader: decodes every tag type reachable from CoreNFC on iOS 17+: NDEF, ISO 7816 (PIV/CAC/EMV/FIDO2), ISO 14443-B, ISO 15693, MIFARE, FeliCa, and PACE/ePassport (ICAO 9303 EF.CardAccess). Intelligent payload decoding, APDU exchange logging, cancel-scan gesture, AWS DynamoDB scan history | `Swift` `SwiftUI` `CoreNFC` `AWS SAM` `Lambda` `DynamoDB` `API Gateway` |
 | [**gOOOvy**](https://gooovy.com) | Out-of-office auto-replies for Google Voice texts via Gmail: per-day scheduling, VIP contacts, breakthrough list, activity log, manual override. Pro at $8.99/mo (Stripe). iOS companion app. Google OAuth (PKCE). | `Python` `Astro 6` `Svelte` `Cloudflare Workers` `CDK` `Lambda` `DynamoDB` `Stripe` `Google OAuth` `Swift` `Apple IAP` |
-| [**jamestannahill.com**](https://www.jamestannahill.com) | Personal portfolio: Astro 6, full SEO/schema/AIO, self-hosted NHG Display font CDN. Subdomains: interactive Mapbox map, tactical digital business card with MECARD QR + Apple Wallet pass | `Astro 6` `Tailwind` `Cloudflare Workers` `R2` `Turnstile` `SES` `Mapbox` |
+| [**jamestannahill.com**](https://jamestannahill.com) | Personal portfolio: Astro 6, full SEO/schema/AIO, self-hosted NHG Display font CDN. Subdomains: interactive Mapbox map, tactical digital business card with MECARD QR + Apple Wallet pass | `Astro 6` `Tailwind` `Cloudflare Workers` `R2` `Turnstile` `SES` `Mapbox` |
 | [**OpenTime**](https://apps.apple.com/us/app/opentime/id6760204246) | Calendar availability widget: free/busy slots on macOS and iOS | `Swift` `WidgetKit` `EventKit` |
-| **Resy Sniper** | Automated restaurant reservation bot: monitors and books the moment slots open | `Python` `Flask` `Resy API` |
 | **Oresh Watcher** | SevenRooms reservation watcher: monitors target venues, detects open slots in real time, emails alerts. Behind Cloudflare Tunnel + Access | `Python` `Flask` `Astro` `SQLite` `Cloudflare Tunnel` `systemd` `EC2 t4g.nano` |
-| **Quick Reply** | macOS utility: contextual text replies in multiple tones via keyboard shortcut | `Python` `Claude Haiku` |
-| **Flipper Bridge** | Flipper Zero + Claude AI bridge for hardware analysis | `Python` `Claude` |
 
 ---
 
@@ -144,7 +141,7 @@ Cornell MBA · M.S. Biotechnology · Former Vaxart, M Science/Jefferies
 </picture>
 
 <p align="center">
-  <a href="https://www.jamestannahill.com">jamestannahill.com</a> ·
+  <a href="https://jamestannahill.com">jamestannahill.com</a> ·
   <a href="https://www.linkedin.com/in/jamesstannahill/">LinkedIn</a> ·
   <a href="https://plocamium.com">Plocamium Holdings</a> ·
   <a href="https://www.bloomberg.com/profile/person/23291921">Bloomberg</a> ·
