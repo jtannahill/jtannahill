@@ -1,7 +1,7 @@
 <h1 align="center">James Tannahill</h1>
 
 <p align="center">
-  <strong>Intelligent Capital at <a href="https://x.ai">xAI</a> · PE Executive & Founder</strong>, New York City
+  <strong>AI/ML for Capital Markets at <a href="https://x.ai">SpaceXAI</a> · PE Executive & Founder</strong>, New York City
 </p>
 
 <p align="center">
