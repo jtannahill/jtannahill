@@ -50,6 +50,18 @@
   <img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat&logo=elevenlabs&logoColor=white" />
 </p>
 
+<p align="center">
+  <a href="https://docs.github.com/en/get-started/learning-about-github/githubs-products#github-pro"><img src="https://img.shields.io/badge/GitHub-Pro-000000?style=flat&logo=github&logoColor=white" alt="GitHub Pro" /></a>
+  <a href="https://github.com/jtannahill?tab=achievements"><img src="https://img.shields.io/badge/Achievements-4_unlocked-58A6FF?style=flat&logo=github&logoColor=white" alt="4 GitHub achievements unlocked" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/jtannahill?achievement=pull-shark&tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-bronze.png" alt="Pull Shark (Bronze) — 16+ merged pull requests" width="72" /></a>
+  <a href="https://github.com/jtannahill?achievement=pair-extraordinaire&tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" alt="Pair Extraordinaire — coauthored commits on a merged pull request" width="72" /></a>
+  <a href="https://github.com/jtannahill?achievement=yolo&tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="YOLO — merged a pull request without a review" width="72" /></a>
+  <a href="https://github.com/jtannahill?achievement=quickdraw&tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" alt="Quickdraw — closed an issue or pull request within 5 minutes" width="72" /></a>
+</p>
+
 ---
 
 ### Why I Build
