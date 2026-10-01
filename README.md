@@ -1,4 +1,42 @@
-# James Tannahill
+<h1 align="center">James Tannahill</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+production+systems+at+the+intersection+of+finance%2C+healthcare+and+AI;Intelligent+Capital+at+SpaceXAI+%C2%B7+New+York+City;Python+%C2%B7+TypeScript+%C2%B7+Swift+%C2%B7+AWS+%C2%B7+Cloudflare;The+gap+between+possible+and+deployed+is+where+value+gets+destroyed." alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS_CDK-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bedrock-FF9900?style=flat&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Step_Functions-FF4F8B?style=flat&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/SageMaker-7B68EE?style=flat&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=awslambda&logoColor=white" />
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/ECS_Fargate-FF9900?style=flat&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=flat&logo=opensearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=flat&logo=svelte&logoColor=white" />
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare_Pages-F38020?style=flat&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=d3dotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mapbox-000000?style=flat&logo=mapbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/LiveKit-000000?style=flat&logo=webrtc&logoColor=white" />
+  <img src="https://img.shields.io/badge/Replicate-000000?style=flat&logo=replicate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=twilio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deepgram-13EF93?style=flat&logo=deepgram&logoColor=black" />
+  <img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat&logo=elevenlabs&logoColor=white" />
+</p>
 
 Intelligent Capital at SpaceXAI, New York City. Previously President and Managing Partner of Plocamium Holdings. Head of Field Operations at ProSecPR. Cornell MBA, M.S. Biotechnology.
 
@@ -26,3 +64,9 @@ Open source contributions: [RunCatNeo GPU metrics sample](https://github.com/run
 [MonkeyThorn](https://meet.monkeythorn.com), [gOOOvy](https://gooovy.com), [HMU API](https://hmuapi.com), [Nargusta](https://nargusta.com), NewYorkLab, and [1ness Strategies](https://www.1nessagency.com) (founder).
 
 I work in Python, TypeScript and Swift, on AWS (CDK, Lambda, Step Functions, Bedrock) and Cloudflare Workers.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jtannahill/jtannahill/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jtannahill/jtannahill/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jtannahill/jtannahill/output/github-contribution-grid-snake.svg">
+</picture>
