@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat&logo=elevenlabs&logoColor=white" />
 </p>
 
-AI/ML for Capital Markets at SpaceXSI, New York City. Previously President and Managing Partner of Plocamium Holdings. Head of Field Operations at ProSecPR. Cornell MBA, M.S. Biotechnology.
+AI/ML for Capital Markets at SpaceXSI, New York City. Previously President and Managing Partner of Plocamium Holdings and Head of Field Operations at ProSecPR. Cornell MBA, M.S. Biotechnology.
 
 I build the tools I use: data pipelines, forecasting models and small native apps. Most of what is here runs in production.
 
@@ -61,7 +61,7 @@ Open source contributions: [RunCatNeo GPU metrics sample](https://github.com/run
 
 ## Ventures
 
-[MonkeyThorn](https://meet.monkeythorn.com), [gOOOvy](https://gooovy.com), [HMU API](https://hmuapi.com), [Nargusta](https://nargusta.com), NewYorkLab, and [1ness Strategies](https://www.1nessagency.com) (founder).
+[MonkeyThorn](https://meet.monkeythorn.com), [gOOOvy](https://gooovy.com), [HMU API](https://hmuapi.com), and [Nargusta](https://nargusta.com). Builder of NewYorkLab and [1ness Strategies](https://www.1nessagency.com).
 
 I work in Python, TypeScript and Swift, on AWS (CDK, Lambda, Step Functions, Bedrock) and Cloudflare Workers.
 
