@@ -48,6 +48,7 @@ I build the tools I use: data pipelines, forecasting models and small native app
 
 | Project | What it is | Live |
 |---|---|---|
+| [sms-agent-router](https://github.com/jtannahill/sms-agent-router) | Text one number and the first word picks the AI agent: Grok, Claude or any webhook. Cloudflare Worker with Twilio signature checks, owner allowlist and PIN | [v0.1.0](https://github.com/jtannahill/sms-agent-router/releases/tag/v0.1.0) |
 | [art-generator](https://github.com/jtannahill/art-generator) | Daily generative art from live weather data. Step Functions, Bedrock, Flux and per-artist LoRAs | [art.jamestannahill.com](https://art.jamestannahill.com) |
 | [wx-jamestannahill](https://github.com/jtannahill/wx-jamestannahill) | Hyperlocal Midtown weather station with analog and rain-probability models | [wx.jamestannahill.com](https://wx.jamestannahill.com) |
 | [xlsx-provenance](https://github.com/jtannahill/xlsx-provenance) | Fingerprints .xlsx files to tell Excel-authored workbooks from library-generated ones | [PyPI](https://pypi.org/project/xlsx-provenance/) |
