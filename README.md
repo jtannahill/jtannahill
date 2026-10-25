@@ -60,6 +60,24 @@ Apps on the App Store: [OpenTime](https://apps.apple.com/us/app/opentime/id67602
 
 Open source contributions: [RunCatNeo GPU metrics sample](https://github.com/runcat-dev/RunCatNeo/pull/87), [jdm](https://github.com/jdm-contrib/jdm/pull/2908).
 
+## Why I replaced QuickBooks
+
+In October 2026 I moved 1ness Strategies off QuickBooks Online onto a self-hosted, open-source ledger ([Bigcapital](https://github.com/bigcapitalhq/bigcapital), AGPL) with my own pages, billing service and AI assistant on top. For a small business, QuickBooks is a rental with a lock on the door:
+
+- **The price only goes one way.** It is a monthly subscription that Intuit has raised repeatedly, with payments, payroll and extra users sold on top. You keep paying to keep access to your own books.
+- **Your data does not leave cleanly.** The export is a folder of report spreadsheets, not a database. Ours had report cells stored as formulas with zero cached values, and history came out as journal entries rather than the invoices and payments behind them. After you cancel, the books stay read-only for a year.
+- **Your cash runs through their processor.** In November 2025 QuickBooks Payments put our client deposits on hold behind a negative balance, and it took two days of calls to Intuit to release them.
+- **It does one generic workflow.** Anything specific to the business, like drafting each client's invoice on their billing day from that month's Google Ads spend, needs a third-party app or manual work.
+
+What the open-source version gives a small business instead:
+
+- **You own it.** The ledger is a database I can query, back up every night, encrypt and restore. Nobody can change the price, hold the deposits or close the account.
+- **It costs less.** A small server is about $8 a month; the AI features add about $10 to $20 a month in usage.
+- **It fits the work.** Invoices draft themselves on each client's billing day with their Ads spend; clients pay by card or bank transfer through Stripe and see their invoices and Ads results in their own portal; there is a 13-week cash flow, plain-English search ("expenses since February") and an AI assistant that only suggests: nothing is sent or changed until a person approves it.
+- **You can see how it works.** The code is open, so every number can be traced from the screen to the ledger.
+
+The trade-off is real: you run it, so backups, updates and security are your job, and you still want an accountant for taxes. For a business that already lives in code, that is a better deal than renting your own books.
+
 ## Ventures
 
 [MonkeyThorn](https://meet.monkeythorn.com), [gOOOvy](https://gooovy.com), [HMU API](https://hmuapi.com), and [Nargusta](https://nargusta.com). Builder of NewYorkLab and [1ness Strategies](https://www.1nessagency.com).
