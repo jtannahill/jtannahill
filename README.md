@@ -54,7 +54,7 @@ I build the tools I use: data pipelines, forecasting models and small native app
 | [xlsx-provenance](https://github.com/jtannahill/xlsx-provenance) | Fingerprints .xlsx files to tell Excel-authored workbooks from library-generated ones | [PyPI](https://pypi.org/project/xlsx-provenance/) |
 | [mail-cleanup](https://github.com/jtannahill/mail-cleanup) | macOS menubar app and CLI that empties Apple Mail junk and trash across accounts | [Releases](https://github.com/jtannahill/mail-cleanup/releases) |
 | [opal-c1-depthai](https://github.com/jtannahill/opal-c1-depthai) | Runs custom neural networks on an Opal C1 webcam through DepthAI | |
-| [subway-intel](https://github.com/jtannahill/subway-intel) | Real-time NYC subway positions and delay scoring | [mta.jamestannahill.com](https://mta.jamestannahill.com) |
+| [subway-intel](https://github.com/jtannahill/subway-intel) | Real-time NYC subway positions and delay scoring | mta.jamestannahill.com (paused) |
 
 Apps on the App Store: [OpenTime](https://apps.apple.com/us/app/opentime/id6760204246) and [SigScan](https://apps.apple.com/app/sigscan-signal-radar/id6806315838).
 
@@ -80,7 +80,7 @@ The trade-off is real: you run it, so backups, updates and security are your job
 
 ## Ventures
 
-[MonkeyThorn](https://meet.monkeythorn.com), [gOOOvy](https://gooovy.com), [HMU API](https://hmuapi.com), and [Nargusta](https://nargusta.com). Builder of NewYorkLab and [1ness Strategies](https://www.1nessagency.com).
+[MonkeyThorn](https://meet.monkeythorn.com), [gOOOvy](https://gooovy.com), [HMU API](https://hmuapi.com), and [Nargusta](https://nargusta.com). Builder of [NewYorkLab](https://www.newyorklab.co/) and [1ness Strategies](https://www.1nessagency.com).
 
 I work in Python, TypeScript and Swift, on AWS (CDK, Lambda, Step Functions, Bedrock) and Cloudflare Workers.
 
