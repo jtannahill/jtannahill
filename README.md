@@ -56,7 +56,7 @@ I build the tools I use: data pipelines, forecasting models and small native app
 | [opal-c1-depthai](https://github.com/jtannahill/opal-c1-depthai) | Runs custom neural networks on an Opal C1 webcam through DepthAI | |
 | [subway-intel](https://github.com/jtannahill/subway-intel) | Real-time NYC subway positions and delay scoring | mta.jamestannahill.com (paused) |
 
-Apps on the App Store: [OpenTime](https://apps.apple.com/us/app/opentime/id6760204246) and [SigScan](https://apps.apple.com/app/sigscan-signal-radar/id6806315838).
+Apps on the App Store: [MonkeyThorn Meet](https://apps.apple.com/us/app/monkeythorn-meet/id6771475270), [OpenTime](https://apps.apple.com/us/app/opentime/id6760204246) and [SigScan](https://apps.apple.com/app/sigscan-signal-radar/id6806315838).
 
 Open source contributions: [RunCatNeo GPU metrics sample](https://github.com/runcat-dev/RunCatNeo/pull/87), [jdm](https://github.com/jdm-contrib/jdm/pull/2908).
 
