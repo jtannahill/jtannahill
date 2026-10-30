@@ -1,7 +1,7 @@
 <h1 align="center">James Tannahill</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+production+systems+at+the+intersection+of+finance%2C+healthcare+and+AI;VP+of+Super+Intelligence+Innovation+at+Atlas+SP+Partners+%C2%B7+New+York+City;Python+%C2%B7+TypeScript+%C2%B7+Swift+%C2%B7+AWS+%C2%B7+Cloudflare;The+gap+between+possible+and+deployed+is+where+value+gets+destroyed." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+production+systems+at+the+intersection+of+finance%2C+healthcare+and+AI;VP+of+Super+Intelligence+Innovation+at+ATLAS+SP+Partners+%C2%B7+New+York+City;Python+%C2%B7+TypeScript+%C2%B7+Swift+%C2%B7+AWS+%C2%B7+Cloudflare;The+gap+between+possible+and+deployed+is+where+value+gets+destroyed." alt="Typing SVG" />
 </p>
 
 <p align="center">
