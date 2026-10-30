@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat&logo=elevenlabs&logoColor=white" />
 </p>
 
-VP of Super Intelligence Innovation at Atlas SP Partners, an Apollo company, New York City. Previously AI/ML for Capital Markets at SpaceX Super Intelligence, President and Managing Partner of Plocamium Holdings and Head of Field Operations at ProSecPR. Cornell MBA, M.S. Biotechnology.
+VP of Super Intelligence Innovation at ATLAS SP Partners, an Apollo company, New York City. Previously AI/ML for Capital Markets at SpaceX Super Intelligence, President and Managing Partner of Plocamium Holdings and Head of Field Operations at ProSecPR. Cornell MBA, M.S. Biotechnology.
 
 I build the tools I use: data pipelines, forecasting models and small native apps. Most of what is here runs in production.
 
