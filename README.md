@@ -1,7 +1,7 @@
 <h1 align="center">James Tannahill</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+production+systems+at+the+intersection+of+finance%2C+healthcare+and+AI;AI%2FML+for+Capital+Markets+at+SpaceX+Super+Intelligence+%C2%B7+New+York+City;Python+%C2%B7+TypeScript+%C2%B7+Swift+%C2%B7+AWS+%C2%B7+Cloudflare;The+gap+between+possible+and+deployed+is+where+value+gets+destroyed." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+production+systems+at+the+intersection+of+finance%2C+healthcare+and+AI;VP+of+Super+Intelligence+Innovation+at+Atlas+SP+%C2%B7+New+York+City;Python+%C2%B7+TypeScript+%C2%B7+Swift+%C2%B7+AWS+%C2%B7+Cloudflare;The+gap+between+possible+and+deployed+is+where+value+gets+destroyed." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat&logo=elevenlabs&logoColor=white" />
 </p>
 
-AI/ML for Capital Markets at SpaceX Super Intelligence, New York City. Previously President and Managing Partner of Plocamium Holdings and Head of Field Operations at ProSecPR. Cornell MBA, M.S. Biotechnology.
+VP of Super Intelligence Innovation at Atlas SP, an Apollo company, New York City. Previously AI/ML for Capital Markets at SpaceX Super Intelligence, President and Managing Partner of Plocamium Holdings and Head of Field Operations at ProSecPR. Cornell MBA, M.S. Biotechnology.
 
 I build the tools I use: data pipelines, forecasting models and small native apps. Most of what is here runs in production.
 
